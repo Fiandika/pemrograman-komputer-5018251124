@@ -1,7 +1,9 @@
 # Pemrograman Komputer
 
 Nama : Fiandika Satria Wirasena
+
 NRP : 5018251124
+
 Kelas : Pemrograman Komputer
 
 ## Repository
